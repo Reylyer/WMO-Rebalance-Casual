@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Works\\Mods\\WMO\\rebalancers\\rebalancer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A75A0473-2981-4C5E-BFD4-A074B7B0FE8D}|rebalancer\\rebalancer.csproj|i:\\works\\mods\\wmo\\rebalancers\\rebalancer\\rebalancer\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75A0473-2981-4C5E-BFD4-A074B7B0FE8D}|rebalancer\\rebalancer.csproj|solutionrelative:rebalancer\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75A0473-2981-4C5E-BFD4-A074B7B0FE8D}|rebalancer\\rebalancer.csproj|i:\\works\\mods\\wmo\\rebalancers\\rebalancer\\rebalancer\\patches\\playerdata_getsprintspeed_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75A0473-2981-4C5E-BFD4-A074B7B0FE8D}|rebalancer\\rebalancer.csproj|solutionrelative:rebalancer\\patches\\playerdata_getsprintspeed_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerData_GetSprintSpeed_Patch.cs",
+              "DocumentMoniker": "I:\\Works\\Mods\\WMO\\rebalancers\\rebalancer\\rebalancer\\Patches\\PlayerData_GetSprintSpeed_Patch.cs",
+              "RelativeDocumentMoniker": "rebalancer\\Patches\\PlayerData_GetSprintSpeed_Patch.cs",
+              "ToolTip": "I:\\Works\\Mods\\WMO\\rebalancers\\rebalancer\\rebalancer\\Patches\\PlayerData_GetSprintSpeed_Patch.cs",
+              "RelativeToolTip": "rebalancer\\Patches\\PlayerData_GetSprintSpeed_Patch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:09:40.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Core.cs",
+              "DocumentMoniker": "I:\\Works\\Mods\\WMO\\rebalancers\\rebalancer\\rebalancer\\Core.cs",
+              "RelativeDocumentMoniker": "rebalancer\\Core.cs",
+              "ToolTip": "I:\\Works\\Mods\\WMO\\rebalancers\\rebalancer\\rebalancer\\Core.cs",
+              "RelativeToolTip": "rebalancer\\Core.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAiwJUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:00:43.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

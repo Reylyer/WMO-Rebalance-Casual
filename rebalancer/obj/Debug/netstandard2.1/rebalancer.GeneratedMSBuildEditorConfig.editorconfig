@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = rebalancer
+build_property.ProjectDir = I:\Works\Mods\WMO\rebalancers\rebalancer\rebalancer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
